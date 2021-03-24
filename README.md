@@ -6,7 +6,7 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 </p>
 
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <b><i>You can connect with me on the following links</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
