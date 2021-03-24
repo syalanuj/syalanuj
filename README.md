@@ -37,6 +37,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [How to choose the right Google Cloud Platform Database?](https://towardsdatascience.com/how-to-choose-the-right-google-cloud-platform-database-a223f4d7482f?source=rss-df3997c527b4------2)
+- [Building the Future with Databricks!](https://medium.datadriveninvestor.com/building-the-future-with-databricks-f18eb702fba9?source=rss-df3997c527b4------2)
+- [Dask: A Scalable Solution For Parallel Computing](https://towardsdatascience.com/dask-a-scalable-solution-for-parallel-computing-d1d962f227f6?source=rss-df3997c527b4------2)
+- [Introduction to Ansible: Deployment of the Multi-Utility Automation Tool (Part 2)](https://syal-anuj.medium.com/introduction-to-ansible-deployment-of-the-multi-utility-automation-tool-part-2-a078296ee36e?source=rss-df3997c527b4------2)
+- [Exploring spaCy: Your one-stop library to build advanced NLP products](https://towardsdatascience.com/exploring-spacy-your-one-stop-library-to-build-advanced-nlp-products-d242d8d753af?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
