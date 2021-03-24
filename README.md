@@ -1,6 +1,9 @@
 # [Anuj Syal](https://anujsyal.com/)
 Data Engineering | Python | Machine Learning | Natural Language Processing | Google Cloud | AWS
 
+<p align="center" width="100%">
+    <img width="50%" src="cover-v2.jpg"> 
+</p>
 ![cover-v2.jpg](cover-v2.jpg)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
