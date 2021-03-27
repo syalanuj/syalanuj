@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Databricks Tutorial Part 2](https://www.youtube.com/watch?v=I3fmLdZvzn0)
+- [Databricks Tutorial Part 1](https://www.youtube.com/watch?v=3fqfWYBXj2A)
 - [Choosing Database in Google Cloud](https://www.youtube.com/watch?v=2ATSXqgZY3A)
 - [Building the Future with Databricks! Getting Started](https://www.youtube.com/watch?v=ehUziSXaIxA)
 - [Tech News ](https://www.youtube.com/watch?v=q19ccBGT5oM)
-- [Getting Started with Pytorch: How to Train a Deep Learning Model With Pytorch](https://www.youtube.com/watch?v=HN-sJ2Bm_aA)
-- [Getting Started with Dask ](https://www.youtube.com/watch?v=jJcnqtHuCSI)
 <!-- YOUTUBE:END -->
 </td>
 
