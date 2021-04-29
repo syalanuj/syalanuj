@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [The SageMaker Saga](https://towardsdatascience.com/the-sagemaker-saga-e7ea2233388f?source=rss-df3997c527b4------2)
 - [Amazon Redshift vs Google BigQuery: Battle of the Biggest OLAP Data Warehouses](https://towardsdatascience.com/amazon-redshift-vs-google-bigquery-battle-of-the-biggest-olap-data-warehouses-8311241b2c91?source=rss-df3997c527b4------2)
 - [An App-solute Delight: Streamlit](https://towardsdatascience.com/an-app-solute-delight-streamlit-f9f1e7d55a85?source=rss-df3997c527b4------2)
 - [How to choose the right Google Cloud Platform Database?](https://towardsdatascience.com/how-to-choose-the-right-google-cloud-platform-database-a223f4d7482f?source=rss-df3997c527b4------2)
 - [Building the Future with Databricks!](https://medium.datadriveninvestor.com/building-the-future-with-databricks-f18eb702fba9?source=rss-df3997c527b4------2)
-- [Dask: A Scalable Solution For Parallel Computing](https://towardsdatascience.com/dask-a-scalable-solution-for-parallel-computing-d1d962f227f6?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
