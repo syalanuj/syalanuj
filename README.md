@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Amazon Sagemaker in 11 minutes ](https://www.youtube.com/watch?v=95332cm5ROo)
 - [Reached 50 Subscribers! Thank You.](https://www.youtube.com/watch?v=KYbVte_o2dA)
 - [How to deploy ML app in 2 mins ](https://www.youtube.com/watch?v=_fE8maAS5C0)
 - [Build your first ML App ](https://www.youtube.com/watch?v=IeRbr9tJ4w0)
 - [Getting started with Streamlit ](https://www.youtube.com/watch?v=J2LsfsHss3Y)
-- [Databricks Tutorial Part 2](https://www.youtube.com/watch?v=I3fmLdZvzn0)
 <!-- YOUTUBE:END -->
 </td>
 
