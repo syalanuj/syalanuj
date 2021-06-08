@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [Pyspark Installation Guide](https://towardsdatascience.com/pyspark-installation-guide-140aee9aab87?source=rss-df3997c527b4------2)
 - [How to NFT?](https://medium.com/geekculture/how-to-nft-71e7fbf2ca80?source=rss-df3997c527b4------2)
 - [The SageMaker Saga](https://towardsdatascience.com/the-sagemaker-saga-e7ea2233388f?source=rss-df3997c527b4------2)
 - [Amazon Redshift vs Google BigQuery: Battle of the Biggest OLAP Data Warehouses](https://towardsdatascience.com/amazon-redshift-vs-google-bigquery-battle-of-the-biggest-olap-data-warehouses-8311241b2c91?source=rss-df3997c527b4------2)
 - [An App-solute Delight: Streamlit](https://towardsdatascience.com/an-app-solute-delight-streamlit-f9f1e7d55a85?source=rss-df3997c527b4------2)
-- [How to choose the right Google Cloud Platform Database?](https://towardsdatascience.com/how-to-choose-the-right-google-cloud-platform-database-a223f4d7482f?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
