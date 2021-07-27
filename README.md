@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Introduction to Pyspark ML Lib: Build your first linear regression model](https://www.youtube.com/watch?v=9Sy1x1fa1no)
 - [Pyspark Installation Guide](https://www.youtube.com/watch?v=Ql_jfk3UnHE)
 - [Python Crypto Investment Bot Part-2](https://www.youtube.com/watch?v=8dZ0pvDqp1E)
 - [Python Crypto Investment Bot](https://www.youtube.com/watch?v=ltGkO4icSP0)
 - [How to get started with Non Fungible Tokens ](https://www.youtube.com/watch?v=Malw5Wg79kk)
-- [Amazon Sagemaker in 11 minutes ](https://www.youtube.com/watch?v=95332cm5ROo)
 <!-- YOUTUBE:END -->
 </td>
 
