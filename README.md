@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Introduction to graph-based analytics using Cylynx Motif](https://www.youtube.com/watch?v=jPs5UxNNKQ4)
 - [Building Deep Neural Networks the Easy Way ](https://www.youtube.com/watch?v=Ez4la9Lwh04)
 - [Best way to navigate through Spark](https://www.youtube.com/watch?v=iHcyFT6AIcg)
 - [Introduction to Pyspark ML Lib: Build your first linear regression model](https://www.youtube.com/watch?v=9Sy1x1fa1no)
 - [Pyspark Installation Guide](https://www.youtube.com/watch?v=Ql_jfk3UnHE)
-- [Python Crypto Investment Bot Part-2](https://www.youtube.com/watch?v=8dZ0pvDqp1E)
 <!-- YOUTUBE:END -->
 </td>
 
