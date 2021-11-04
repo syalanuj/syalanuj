@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [Spark Streaming with Python](https://towardsdatascience.com/spark-streaming-with-python-5144cfc8b883?source=rss-df3997c527b4------2)
 - [Building Computer Vision Datasets in Coco Format](https://towardsdatascience.com/building-computer-vision-datasets-in-coco-format-56593d5e3520?source=rss-df3997c527b4------2)
 - [Introduction to graph analytics using Cylynx’s Motif](https://medium.com/cylynx/introduction-to-graph-based-analytics-using-cylynx-motif-1393a062c7c6?source=rss-df3997c527b4------2)
 - [Building Deep Neural Networks the Easy Way | Perceptilabs](https://towardsdatascience.com/building-deep-neural-networks-the-easy-way-perceptilabs-bd065c9544c4?source=rss-df3997c527b4------2)
 - [Introduction to Pyspark ML Lib: Build your first linear regression model](https://towardsdatascience.com/introduction-to-pyspark-ml-lib-build-your-first-linear-regression-model-68631cdcf08a?source=rss-df3997c527b4------2)
-- [Pyspark Installation Guide](https://towardsdatascience.com/pyspark-installation-guide-140aee9aab87?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
