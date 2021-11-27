@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Preparing for Data Engineer Certification ](https://www.youtube.com/watch?v=blCMQRhZgso)
 - [Creating a Machine Learning Model with SQL &lpar;Google Big Query&rpar;](https://www.youtube.com/watch?v=7fJs1gEpPjo)
 - [Spark Streaming with Python under 12 minutes](https://www.youtube.com/watch?v=jMtKh05xR-8)
 - [100 Subscribers Special Video ](https://www.youtube.com/watch?v=m6xRhywl8tg)
 - [Building Computer Vision Datasets in Coco Format](https://www.youtube.com/watch?v=E-_o2Q0YTrs)
-- [Introduction to graph-based analytics using Cylynx Motif](https://www.youtube.com/watch?v=jPs5UxNNKQ4)
 <!-- YOUTUBE:END -->
 </td>
 
