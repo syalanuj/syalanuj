@@ -54,7 +54,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8Xsgc
 <!-- YOUTUBE:START -->
 - [What is a Data Lake &lpar;2022&rpar;](https://www.youtube.com/watch?v=aC9VBnN4xTA)
 - [Preparing for Data Engineer Certification ](https://www.youtube.com/watch?v=blCMQRhZgso)
-- [Creating a Machine Learning Model with SQL &lpar;Google Big Query&rpar;](https://www.youtube.com/watch?v=7fJs1gEpPjo)
+- [Big Query ML ](https://www.youtube.com/watch?v=7fJs1gEpPjo)
 - [Spark Streaming with Python under 12 minutes](https://www.youtube.com/watch?v=jMtKh05xR-8)
 - [100 Subscribers Special Video ](https://www.youtube.com/watch?v=m6xRhywl8tg)
 <!-- YOUTUBE:END -->
