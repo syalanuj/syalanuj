@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Exploring Web3 ](https://www.youtube.com/watch?v=_d7CbKYuOJE)
 - [My First Vlogmas #shorts  #dayinthelife #dataengineering  #christmas #singapore](https://www.youtube.com/watch?v=E3Z_nITHfAM)
 - [Passed Google’s Professional Data Engineering exam #dataengineering #ml #googlecloud #google #gcp](https://www.youtube.com/watch?v=X8gMjYlVdiw)
 - [What is a Data Lake &lpar;2022&rpar;](https://www.youtube.com/watch?v=aC9VBnN4xTA)
 - [Preparing for Data Engineer Certification ](https://www.youtube.com/watch?v=blCMQRhZgso)
-- [Big Query ML ](https://www.youtube.com/watch?v=7fJs1gEpPjo)
 <!-- YOUTUBE:END -->
 </td>
 
