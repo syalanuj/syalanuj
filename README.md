@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [Data Lake VS Data Warehouse](https://towardsdatascience.com/data-lake-vs-data-warehouse-2e3df551b800?source=rss-df3997c527b4------2)
 - [Why Get a Cloud Certificate in Data Engineering?](https://medium.datadriveninvestor.com/why-get-a-cloud-certificate-in-data-engineering-983c1199aa67?source=rss-df3997c527b4------2)
 - [Creating a Machine Learning Model with SQL](https://towardsdatascience.com/creating-a-machine-learning-model-with-sql-81d843a5307c?source=rss-df3997c527b4------2)
 - [Spark Streaming with Python](https://towardsdatascience.com/spark-streaming-with-python-5144cfc8b883?source=rss-df3997c527b4------2)
 - [Building Computer Vision Datasets in Coco Format](https://towardsdatascience.com/building-computer-vision-datasets-in-coco-format-56593d5e3520?source=rss-df3997c527b4------2)
-- [Introduction to graph analytics using Cylynx’s Motif](https://medium.com/cylynx/introduction-to-graph-based-analytics-using-cylynx-motif-1393a062c7c6?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
