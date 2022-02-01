@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Google Vision API ](https://www.youtube.com/watch?v=HU74ETE3QPw)
 - [Intro to pre-trained ML APIs in Google Cloud Platform](https://www.youtube.com/watch?v=1Qx2i8f-_e0)
 - [3 Steps to pass Google&#39;s Data Engineer Exam #gcp #shorts #googlecertification #dataengineering](https://www.youtube.com/watch?v=PGIMUl__21k)
 - [How I Passed Google&#39;s Professional Data Engineer Exam in 2022](https://www.youtube.com/watch?v=w2_ukhoLGEM)
 - [Happy New Year! ](https://www.youtube.com/watch?v=rS7DA0gC214)
-- [Exploring Web3 ](https://www.youtube.com/watch?v=_d7CbKYuOJE)
 <!-- YOUTUBE:END -->
 </td>
 
