@@ -40,7 +40,7 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
-- [Warehousing with Google’s Big Query](https://syal-anuj.medium.com/warehousing-with-googles-big-query-6b1d2d9a20fa?source=rss-df3997c527b4------2)
+- [Warehousing with Google’s Big Query](https://medium.com/analytics-vidhya/warehousing-with-googles-big-query-6b1d2d9a20fa?source=rss-df3997c527b4------2)
 - [Data Lake VS Data Warehouse](https://towardsdatascience.com/data-lake-vs-data-warehouse-2e3df551b800?source=rss-df3997c527b4------2)
 - [Why Get a Cloud Certificate in Data Engineering?](https://medium.datadriveninvestor.com/why-get-a-cloud-certificate-in-data-engineering-983c1199aa67?source=rss-df3997c527b4------2)
 - [Creating a Machine Learning Model with SQL](https://towardsdatascience.com/creating-a-machine-learning-model-with-sql-81d843a5307c?source=rss-df3997c527b4------2)
