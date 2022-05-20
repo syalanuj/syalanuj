@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Deploying Airflow with Docker](https://www.youtube.com/watch?v=srYM_ec9dUY)
 - [Warehousing with Google&#39;s Big Query](https://www.youtube.com/watch?v=_Wm_GYO-r_Q)
 - [Google Natural Language API with Python](https://www.youtube.com/watch?v=iqRgOdJZtiY)
 - [Give Google Certification Exam for Free ](https://www.youtube.com/watch?v=p15z858bRSg)
 - [How a Teen Tracked Elon’s Jet using Python #python #shorts #elonmusk #pythonprogramming #pythonbot](https://www.youtube.com/watch?v=g5EUpdJNv6Y)
-- [Google Vision API ](https://www.youtube.com/watch?v=HU74ETE3QPw)
 <!-- YOUTUBE:END -->
 </td>
 
