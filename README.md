@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Reached 500 subscribers ](https://www.youtube.com/watch?v=hMc2wz02mCI)
 - [Infrastructure As Code ](https://www.youtube.com/watch?v=pFhMcMbMhT0)
 - [Dockerize Data Science Project](https://www.youtube.com/watch?v=_msJHTAiHlQ)
 - [Google Vertex AI Platform ](https://www.youtube.com/watch?v=W3o1XqAAK90)
 - [Automate Docker Deployments with Ansible](https://www.youtube.com/watch?v=rX7xoSmipqc)
-- [Deploying Airflow with Docker](https://www.youtube.com/watch?v=srYM_ec9dUY)
 <!-- YOUTUBE:END -->
 </td>
 
