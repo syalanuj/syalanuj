@@ -40,7 +40,7 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering Explained](https://towardsdatascience.com/data-engineering-explained-3dbc97d5bb13?source=rss-df3997c527b4------2)
+- [Data Engineering Explained](https://medium.com/analytics-vidhya/data-engineering-explained-3dbc97d5bb13?source=rss-df3997c527b4------2)
 - [Introduction to Terraform](https://medium.com/lynx-data-engineering/introduction-to-terraform-6d2530596a14?source=rss-df3997c527b4------2)
 - [Introduction to Infrastructure as code](https://medium.com/lynx-data-engineering/introduction-to-infrastructure-as-code-c0142ab71fa7?source=rss-df3997c527b4------2)
 - [Automate Docker Deployments with Ansible](https://medium.com/lynx-data-engineering/automate-docker-deployments-with-ansible-3e2428a3e821?source=rss-df3997c527b4------2)
