@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Roadmap To Data Engineering](https://medium.datadriveninvestor.com/a-step-by-step-roadmap-to-data-engineering-5d13d3ac4be4?source=rss-df3997c527b4------2)
 - [12 Must-Have Skills to become a Data Engineer](https://medium.datadriveninvestor.com/12-must-have-skills-to-become-a-data-engineer-35b100dbee0a?source=rss-df3997c527b4------2)
 - [Data Engineering Explained](https://medium.com/analytics-vidhya/data-engineering-explained-3dbc97d5bb13?source=rss-df3997c527b4------2)
 - [Introduction to Terraform](https://medium.com/lynx-data-engineering/introduction-to-terraform-6d2530596a14?source=rss-df3997c527b4------2)
 - [Introduction to Infrastructure as code](https://medium.com/lynx-data-engineering/introduction-to-infrastructure-as-code-c0142ab71fa7?source=rss-df3997c527b4------2)
-- [Automate Docker Deployments with Ansible](https://medium.com/lynx-data-engineering/automate-docker-deployments-with-ansible-3e2428a3e821?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
