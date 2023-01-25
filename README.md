@@ -40,7 +40,7 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your First ETL Pipeline with Python](https://towardsdatascience.com/create-your-first-etl-pipeline-with-python-d65070c259a6?source=rss-df3997c527b4------2)
+- [Create Your First ETL Pipeline with Python](https://syal-anuj.medium.com/create-your-first-etl-pipeline-with-python-d65070c259a6?source=rss-df3997c527b4------2)
 - [A Step-by-Step Roadmap To Data Engineering](https://medium.datadriveninvestor.com/a-step-by-step-roadmap-to-data-engineering-5d13d3ac4be4?source=rss-df3997c527b4------2)
 - [12 Must-Have Skills to become a Data Engineer](https://medium.datadriveninvestor.com/12-must-have-skills-to-become-a-data-engineer-35b100dbee0a?source=rss-df3997c527b4------2)
 - [Data Engineering Explained](https://medium.com/analytics-vidhya/data-engineering-explained-3dbc97d5bb13?source=rss-df3997c527b4------2)
