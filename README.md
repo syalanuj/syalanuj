@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Databricks Certification Data Engineer Associate Cirriculum #shorts #databricks #dataengineering](https://www.youtube.com/watch?v=IHQGjAKVyBg)
+- [Introduction to Pandas with Python ](https://www.youtube.com/watch?v=ueujy-uJxtM)
 - [Pass Your Databricks Certification Exam for Free #shorts @Databricks #certification](https://www.youtube.com/watch?v=7_xkXz0hoMc)
 - [How I passed Databricks Data Engineer Associate Exam](https://www.youtube.com/watch?v=1Z5AA8T-W3I)
 - [How Data Engineering provides convenient access of insights #shorts #python #dataengineering](https://www.youtube.com/watch?v=qgQ6Theuzdk)
-- [Data Engineering Explained #shorts #dataengineering #etl](https://www.youtube.com/watch?v=1hvJyjrTyds)
-- [Passed Databricks Certified Data Engineer Associate Exam #shorts #databricks #dataengineering](https://www.youtube.com/watch?v=aSdRcnBmoe0)
 <!-- YOUTUBE:END -->
 </td>
 
