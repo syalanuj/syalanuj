@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Docker for Data Engineers](https://www.youtube.com/watch?v=COMEVcZtx1s)
 - [Apache Superset ](https://www.youtube.com/watch?v=tXBKD3p-vsc)
 - [Top 5 Data Engineering Technologies I am learning in 2023](https://www.youtube.com/watch?v=mDoNk2y1GUg)
 - [Why Pandas is an Important Skillset for Data Engineers #shorts #pandas #dataengineering](https://www.youtube.com/watch?v=jtgmcxp68fE)
 - [Databricks Certification Data Engineer Associate Cirriculum #shorts #databricks #dataengineering](https://www.youtube.com/watch?v=IHQGjAKVyBg)
-- [Introduction to Pandas with Python ](https://www.youtube.com/watch?v=ueujy-uJxtM)
 <!-- YOUTUBE:END -->
 </td>
 
