@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
-- [Top Data Certifications for a Successful 2024](https://medium.com/datadriveninvestor/top-data-certifications-for-a-successful-2024-ef1c78500a25?source=rss-df3997c527b4------2)
-- [Top 5 New Data Engineering Technologies to Learn in 2023](https://medium.com/datadriveninvestor/top-5-new-data-engineering-technologies-to-learn-in-2023-2985af82718?source=rss-df3997c527b4------2)
-- [How I Passed Databricks Data Engineer Associate Exam](https://medium.com/datadriveninvestor/how-i-passed-databricks-data-engineer-associate-exam-ea86b42d72a6?source=rss-df3997c527b4------2)
-- [Create Your First ETL Pipeline with Python](https://medium.com/datadriveninvestor/create-your-first-etl-pipeline-with-python-d65070c259a6?source=rss-df3997c527b4------2)
-- [A Step-by-Step Roadmap To Data Engineering](https://medium.com/datadriveninvestor/a-step-by-step-roadmap-to-data-engineering-5d13d3ac4be4?source=rss-df3997c527b4------2)
+- [Top Data Certifications for a Successful 2024](https://medium.datadriveninvestor.com/top-data-certifications-for-a-successful-2024-ef1c78500a25?source=rss-df3997c527b4------2)
+- [Top 5 New Data Engineering Technologies to Learn in 2023](https://medium.datadriveninvestor.com/top-5-new-data-engineering-technologies-to-learn-in-2023-2985af82718?source=rss-df3997c527b4------2)
+- [How I Passed Databricks Data Engineer Associate Exam](https://medium.datadriveninvestor.com/how-i-passed-databricks-data-engineer-associate-exam-ea86b42d72a6?source=rss-df3997c527b4------2)
+- [Create Your First ETL Pipeline with Python](https://medium.datadriveninvestor.com/create-your-first-etl-pipeline-with-python-d65070c259a6?source=rss-df3997c527b4------2)
+- [A Step-by-Step Roadmap To Data Engineering](https://medium.datadriveninvestor.com/a-step-by-step-roadmap-to-data-engineering-5d13d3ac4be4?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
