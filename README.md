@@ -40,11 +40,11 @@ Data Engineering | Python | Machine Learning | Natural Language Processing | Goo
 ### Medium Blogs
 You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/): 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Data Quality in ETL Pipelines with Great Expectations](https://medium.datadriveninvestor.com/mastering-data-quality-in-etl-pipelines-with-great-expectations-fb293445731b?source=rss-df3997c527b4------2)
 - [How I Passed Databricks Data Engineer Professional Exam in 2024](https://medium.datadriveninvestor.com/how-i-passed-databricks-data-engineer-professional-exam-in-2024-15204fc21836?source=rss-df3997c527b4------2)
 - [Data Engineering vs Data Science](https://medium.datadriveninvestor.com/data-engineering-vs-data-science-5c71d8553ade?source=rss-df3997c527b4------2)
 - [Top Data Certifications for a Successful 2024](https://medium.datadriveninvestor.com/top-data-certifications-for-a-successful-2024-ef1c78500a25?source=rss-df3997c527b4------2)
 - [Top 5 New Data Engineering Technologies to Learn in 2023](https://medium.datadriveninvestor.com/top-5-new-data-engineering-technologies-to-learn-in-2023-2985af82718?source=rss-df3997c527b4------2)
-- [How I Passed Databricks Data Engineer Associate Exam](https://medium.datadriveninvestor.com/how-i-passed-databricks-data-engineer-associate-exam-ea86b42d72a6?source=rss-df3997c527b4------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
