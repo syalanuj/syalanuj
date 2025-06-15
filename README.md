@@ -52,11 +52,11 @@ You can find my blogs at my [Medium Page](https://syal-anuj.medium.com/):
 ### My Youtube Videos
 Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCO8XsgcjqArk_mAd1VGBMfg):
 <!-- YOUTUBE:START -->
+- [Apache Iceberg vs Delta Lake – Which Open Table Format Should You Choose in 2025?](https://www.youtube.com/watch?v=ob2i3PpaZyg)
 - [Great Expectation Tutorial ](https://www.youtube.com/watch?v=oxOj30rl_xs)
 - [Azure Data &amp; AI Certification Roadmap for 2024 ](https://www.youtube.com/watch?v=dMN8pxhDTYA)
 - [HOW I PASSED DATABRICKS DATA ENGINEER PROFESSIONAL CERTIFICATE](https://www.youtube.com/watch?v=hxASUE4eIjQ)
 - [Multi-Agent Framework with ChatDev](https://www.youtube.com/watch?v=6m0BOJqo8bo)
-- [Data Engineering vs. Data Science: Choosing Your Data Path](https://www.youtube.com/watch?v=z5qr-Q0OjKo)
 <!-- YOUTUBE:END -->
 </td>
 
